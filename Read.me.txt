@@ -1,0 +1,4 @@
+Hello Everyone
+I am Uday,and this is my first java program.
+Using this set of code you can calculate simple as well as compound interest.
+Have a nice day :)
